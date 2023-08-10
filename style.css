@@ -1,0 +1,16 @@
+#comment{
+    height:100px;
+}
+.containerList1{
+    display: flex;
+    justify-content:flex-start;
+}
+.col-item1{
+    width:50%;
+}
+li{
+    font-weight: bold;
+}
+em{
+    font-weight: normal;
+}
