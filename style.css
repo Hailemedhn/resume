@@ -11,6 +11,6 @@
 li{
     font-weight: bold;
 }
-em{
+li > em{
     font-weight: normal;
 }
