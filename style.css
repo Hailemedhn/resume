@@ -14,3 +14,13 @@ li{
 li > em{
     font-weight: normal;
 }
+#intaps{
+    color:white;
+    text-decoration: none;
+}
+.display-5 > a{
+    text-decoration: none;
+}
+#badgeSpan{
+    font-size: .5em;
+}
